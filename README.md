@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwabhimanNanda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="157" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SwabhimanNanda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&local=en&hide_border=false&order=1" height="157" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=SwabhimanNanda&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=14&order=3" height="148" alt="streak graph"  />
 </div>
 
