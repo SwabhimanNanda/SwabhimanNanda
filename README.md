@@ -31,15 +31,6 @@ Here are some ideas to get you started:
 </div>
 
 ###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">Hey, it's Swabhiman Nanda, in the code groove since 2019,<br>Passionate dreamer, on a digital scene. 🚀<br><br>Spinning humor, weaving dreams so fine,<br>In the language of code, my ambitions align. 😄<br><br>Lines of passion, in every byte I scheme,<br>Crafting a future, where my dreams redeem. 💫</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
