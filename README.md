@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<p align="left">Swabhiman Nanda:Software Developer from<b> India</b>.</p>
+<p align="left">Swabhiman Nanda: Software Developer from<b> India</b>.</p>
 
 ###
 
