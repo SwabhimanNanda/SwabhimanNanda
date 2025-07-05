@@ -30,13 +30,11 @@ Here are some ideas to get you started:
   <img height="200" src="https://media.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif"  />
 </div>
 
-###
-<h2 align="left">I code with</h2>
+<!-- <h2 align="left">I code with</h2> --!> 
 
-###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -72,7 +70,7 @@ Here are some ideas to get you started:
     <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="git logo"  />
       <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="git logo"  /> -->
 </div>
 
 ###
